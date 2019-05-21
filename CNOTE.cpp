@@ -21,7 +21,7 @@
 #define fill(a,v) memset(a,v,sizeof a)
 #define endl "\n"
 
-using namespace std;
+//using namespace std;
 
 int x,y,k,n;
 vii v;
